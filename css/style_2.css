@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #ffbc40;
+  background-color: #fdca6c;
   padding: 15px 0px;
   font-size: 1rem;
 }
@@ -85,8 +85,8 @@ textarea {
   padding-top: 10px;
 }
 .form .botao {
-  color: #fff;
-  background-color: orange;
+  color: black;
+  background-color: #fdca6c;
   padding: 10px 15px;
   /* text-align: center; */
   text-transform: uppercase;
