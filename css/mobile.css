@@ -4,9 +4,6 @@
   .header {
     margin: 0;
     flex-direction: column;
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
   .links {
     margin: auto auto;

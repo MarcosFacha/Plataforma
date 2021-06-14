@@ -14,7 +14,7 @@
   align-items: center;
   background-color: #ffbc40;
   padding: 15px 0px;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 .links {
   display: flex;
@@ -29,28 +29,23 @@
   color: #0a0a0a;
   padding: 30px 0;
 }
-
 .container-footer {
   width: 80%;
   margin: 0 auto;
 }
-
 .informacoes {
   display: flex;
   justify-content: space-between;
 }
-
 .informacoes a {
   display: block;
   text-decoration: none;
   color: rgb(15, 15, 15);
 }
-
 .meios-comunicacao img {
   width: 50px;
   margin: 30px 10px;
 }
-
 .meios-comunicacao .btn {
   background-color: rgb(139, 138, 138);
   padding: 10px 15px;
@@ -59,7 +54,6 @@
   border: none;
   cursor: pointer;
 }
-
 .meios-comunicacao a {
   display: inline;
   text-decoration: none;
@@ -77,8 +71,6 @@
 .sobre_nos {
   text-align: center;
 }
-/*HERE! */
-
 .cartoes {
   display: flex;
   justify-content: center;
@@ -86,17 +78,14 @@
   margin: 100px 0px;
   gap: 10%;
 }
-
 .cartao {
   text-align: center;
   width: 300px;
   height: 300px;
   padding: 50px;
-  /* background-color: #3f3f3f; */
   box-shadow: 0 0 1rem rgb(207, 207, 207);
   border-radius: 200px;
 }
-
 .cartao img {
   width: 100px;
   margin-top: 1%;
